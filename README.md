@@ -10,11 +10,10 @@ December 10, 2018
 Jacob Robertson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Adding code to the Seminole Movie Connection Application to add more categories to look up when searching for a movie.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jkr17d.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. How to use JSON.
