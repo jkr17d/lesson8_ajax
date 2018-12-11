@@ -4,10 +4,10 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jacob Robertson
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,8 +17,8 @@ LIS 2360:  Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use JSON.
+2. How to complete the seminole movie application.
+3. How to produce an API Key.
+4. How to use AJAX..
+5. How to use another website in your own.
